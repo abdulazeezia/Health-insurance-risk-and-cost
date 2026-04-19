@@ -256,7 +256,7 @@ Risk Tiers: **Low** (0–1) | **Moderate** (2–3) | **High** (4–5) | **Very H
 
 All regression results are **highly statistically significant (p < 0.001)**. The null hypothesis — that the independent variable has no effect on charges — is rejected in all three regression analyses. Results are reliable for underwriting and premium pricing decisions.
 
-i am open to collaboration you can reach me via email: azeezia@gmail.com
+I am open to collaboration you can reach me via email: azeezia@gmail.com
 ---
 
 *Health Insurance Cost & Risk Analysis | Data Analysis Class Project*  
