@@ -1,6 +1,8 @@
 # 🏥 Health Insurance Cost & Risk Analysis
 
+
 <img width="739" height="415" alt="Image" src="https://github.com/user-attachments/assets/a9559625-4989-4367-a1be-03c2ab1fab22" />
+
 
 > **Data Analysis Project** | 1,338 Policyholders | 12 Variables | 5 Business Questions | Multiple R² = 0.7504
 
@@ -62,15 +64,6 @@ Four additional analytical columns were created to enable deeper segmentation:
 | **Risk Tier** | Low (0–1) / Moderate (2–3) / High (4–5) / Very High (6–9) |
 
 ---
-
-## Data Cleaning & Preparation
-
-| Issue | Finding | Action Taken |
-|---|---|---|
-| Missing Values | 3 missing values — age (1), bmi (1), children (1) | Median imputation applied. No rows dropped. |
-| Duplicate Rows | Zero duplicate records found | No action required. |
-| Text Standardisation | Inconsistent capitalisation in categorical fields | Title Case applied to all categorical columns. |
-| **Final Clean Dataset** | **1,338 records × 16 columns (12 original + 4 derived)** | Formatted as Excel Table — `CleanDataTable` |
 
 ---
 
@@ -260,7 +253,7 @@ Risk Tiers: **Low** (0–1) | **Moderate** (2–3) | **High** (4–5) | **Very H
 ### Statistical Significance
 
 All regression results are **highly statistically significant (p < 0.001)**. The null hypothesis — that the independent variable has no effect on charges — is rejected in all three regression analyses. Results are reliable for underwriting and premium pricing decisions.
-
+i am open to collaboration you can reach me via email: azeezia@gmail.com
 ---
 
 *Health Insurance Cost & Risk Analysis | Data Analysis Class Project*  
