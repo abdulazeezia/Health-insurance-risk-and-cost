@@ -1,4 +1,7 @@
 # 🏥 Health Insurance Cost & Risk Analysis
+
+<img width="739" height="415" alt="Image" src="https://github.com/user-attachments/assets/a9559625-4989-4367-a1be-03c2ab1fab22" />
+
 > **Data Analysis Project** | 1,338 Policyholders | 12 Variables | 5 Business Questions | Multiple R² = 0.7504
 
 ---
